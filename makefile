@@ -5,4 +5,4 @@ SRCS = tapy.cpp
 TARGET = tapy
 
 all:
-	(CXX) $(SRCS) -o $(TARGET)
+	$(CXX) $(SRCS) -o $(TARGET)
