@@ -5,3 +5,6 @@
 - cd TaPy
 - make
 - ./tapy 
+### Dependencies
+- gcc(g++)
+- make
